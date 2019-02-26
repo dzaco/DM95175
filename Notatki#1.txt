@@ -1,3 +1,1 @@
 Jupyter Notebook otwierany przez localhost w przegladarce
-slabe
-

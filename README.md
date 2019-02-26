@@ -1,1 +1,1 @@
-Respozytorium zawierające notatki i programy z zajęć - Eksploracja danych 
+Repozytorium zawierające notatki i programy z zajęć - Eksploracja danych 

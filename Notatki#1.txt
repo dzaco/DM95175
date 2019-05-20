@@ -1,2 +1,0 @@
-Jupyter Notebook otwierany przez localhost w przegladarce
-znowu zmiana #2
